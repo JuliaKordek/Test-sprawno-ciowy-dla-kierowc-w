@@ -15,3 +15,7 @@ Każdy z przycisków otwiera nowy formularz Windows form, zawierający odpowiedn
 
 ![image](https://github.com/JuliaKordek/Testy-sprawnosciowe-dla-kierowcow/assets/150183188/7b48824a-6eb9-46a1-941c-900bf0c41530)
 
+
+![image](https://github.com/JuliaKordek/Testy-sprawnosciowe-dla-kierowcow/assets/150183188/00d92906-358a-44b5-9fb2-d5ba9d118a93)
+
+
